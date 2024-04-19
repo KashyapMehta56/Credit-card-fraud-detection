@@ -1,0 +1,1 @@
+This is credit card fraud decetation project . In which I use logistic regression to build the model. I use Tkinter Library for GUI. This project provide a solution of given transction is fraud using various attribute
